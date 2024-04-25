@@ -1,2 +1,2 @@
-print "Giraffe Academy"
 puts "Mike"
+print "Giraffe Academy"
