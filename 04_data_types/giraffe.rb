@@ -1,2 +1,2 @@
 name = "Mike"
-occupation = "programmer"
+age = 75
