@@ -5,3 +5,4 @@ puts phrase
 puts phrase.upcase()
 puts phrase.downcase()
 phrase = "      Giraffe Academy      "
+puts phrase
