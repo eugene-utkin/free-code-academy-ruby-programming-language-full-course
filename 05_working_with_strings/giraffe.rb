@@ -10,3 +10,4 @@ puts phrase
 puts phrase.strip()
 
 phrase = "Giraffe Academy"
+puts phrase.length()
