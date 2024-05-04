@@ -16,3 +16,4 @@ puts phrase.include? "Academys"
 puts phrase[0]
 puts phrase[1]
 puts phrase[3]
+puts phrase[8]
