@@ -13,3 +13,4 @@ phrase = "Giraffe Academy"
 puts phrase.length()
 puts phrase.include? "Academy"
 puts phrase.include? "Academys"
+puts phrase[0]
