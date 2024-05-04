@@ -18,3 +18,4 @@ puts phrase[1]
 puts phrase[3]
 puts phrase[8]
 puts phrase[0, 3]
+puts phrase.index("G")
