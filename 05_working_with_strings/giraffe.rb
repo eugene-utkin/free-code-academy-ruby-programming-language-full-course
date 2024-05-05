@@ -21,3 +21,5 @@ puts phrase[0, 3]
 puts phrase.index("G")
 puts phrase.index("A")
 puts phrase.index("ffe")
+
+puts "programming".upcase()
