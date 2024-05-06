@@ -9,3 +9,4 @@ puts 2 ** 3
 puts 10 % 3
 
 num = 20
+puts num
