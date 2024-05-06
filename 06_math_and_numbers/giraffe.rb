@@ -10,3 +10,4 @@ puts 10 % 3
 
 num = 20
 puts num
+puts "my fav num " + nums.to_s
