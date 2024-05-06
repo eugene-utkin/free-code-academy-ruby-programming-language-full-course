@@ -5,3 +5,4 @@ puts 5 + 9
 puts 5 - 9
 puts 5 * 9
 puts 5 / 9
+puts 2 ** 3
