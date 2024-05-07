@@ -18,3 +18,4 @@ puts num.round()
 num = 20.1
 puts num.ceil()
 num = 20.9
+puts num.floor()
