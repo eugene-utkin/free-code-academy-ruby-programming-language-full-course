@@ -11,4 +11,5 @@ puts 10 % 3
 num = 20
 puts num
 puts ("my fav num " + num.to_s)
+num = -20
 puts num.abs()
