@@ -16,3 +16,4 @@ puts num.abs()
 num = 20.487
 puts num.round()
 num = 20.1
+puts num.ceil()
