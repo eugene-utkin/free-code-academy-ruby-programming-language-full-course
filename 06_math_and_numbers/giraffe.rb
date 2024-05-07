@@ -14,3 +14,4 @@ puts ("my fav num " + num.to_s)
 num = -20
 puts num.abs()
 num = 20.487
+puts num.round()
