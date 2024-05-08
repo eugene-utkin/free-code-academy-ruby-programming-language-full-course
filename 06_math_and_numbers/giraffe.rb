@@ -22,3 +22,5 @@ puts num.floor()
 
 puts Math.sqrt(36)
 puts Math.log(1)
+
+puts 1 + 7
