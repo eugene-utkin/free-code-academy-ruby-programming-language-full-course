@@ -21,3 +21,4 @@ num = 20.9
 puts num.floor()
 
 puts Math.sqrt(36)
+puts Math.log(1)
