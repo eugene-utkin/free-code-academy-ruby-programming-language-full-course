@@ -1,3 +1,3 @@
 puts "Enter Your Name: "
 name = gets
-puts "Hello"
+puts "Hello " + name
