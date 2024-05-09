@@ -1,2 +1,2 @@
 puts "Enter Your Name: "
-gets
+name = gets
