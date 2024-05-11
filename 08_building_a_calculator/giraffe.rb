@@ -1,2 +1,2 @@
 puts "Enter a number: "
-num1 = gets.chomp
+num1 = gets.chomp()
