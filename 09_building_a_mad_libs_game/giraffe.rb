@@ -6,5 +6,5 @@ puts "Enter a celebrity: "
 celebrity = gets.chomp()
 
 puts ("Roses are " + color)
-puts (" are blue")
+puts (plural_noun + " are blue")
 puts ("I love {celebrity}")
