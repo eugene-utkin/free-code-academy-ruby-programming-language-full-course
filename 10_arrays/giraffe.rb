@@ -1,1 +1,1 @@
-friends = Array[]
+friends = Array["Kevin"]
