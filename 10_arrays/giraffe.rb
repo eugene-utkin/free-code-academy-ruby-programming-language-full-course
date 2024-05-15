@@ -1,1 +1,1 @@
-friends = Array["Kevin", "Karen"]
+friends = Array["Kevin", "Karen", "Oscar"]
