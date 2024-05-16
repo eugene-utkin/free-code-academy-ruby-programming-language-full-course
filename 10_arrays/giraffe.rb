@@ -10,3 +10,4 @@ friends[0] = "Dwight"
 puts friends[0]
 
 friends = Array.new
+puts friends[0]
