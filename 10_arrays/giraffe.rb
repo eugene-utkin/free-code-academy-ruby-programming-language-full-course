@@ -8,3 +8,5 @@ puts friends[0, 2]
 
 friends[0] = "Dwight"
 puts friends[0]
+
+friends = Array.new
