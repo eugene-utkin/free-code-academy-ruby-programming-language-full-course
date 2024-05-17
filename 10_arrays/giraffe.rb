@@ -18,3 +18,4 @@ puts friends
 
 friends = Array["Kevin", "Karen", "Oscar"]
 puts friends.length()
+puts friends.include? "Karen"
