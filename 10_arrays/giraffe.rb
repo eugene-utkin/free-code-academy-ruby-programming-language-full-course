@@ -17,3 +17,4 @@ friends[5] = "Holly"
 puts friends
 
 friends = Array["Kevin", "Karen", "Oscar"]
+puts friends.length()
