@@ -14,3 +14,4 @@ puts friends[0]
 friends[0] = "Michael"
 puts friends[0]
 friends[5] = "Holly"
+puts friends
