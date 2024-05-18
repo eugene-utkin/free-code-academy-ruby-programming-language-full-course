@@ -20,3 +20,4 @@ friends = Array["Kevin", "Karen", "Oscar"]
 puts friends.length()
 puts friends.include? "Karen"
 puts friends.include? "Karens"
+puts friends.reverse()
