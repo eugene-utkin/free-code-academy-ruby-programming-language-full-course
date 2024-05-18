@@ -21,3 +21,5 @@ puts friends.length()
 puts friends.include? "Karen"
 puts friends.include? "Karens"
 puts friends.reverse()
+
+friends = Array["Kevin", "Karen", "Oscar", "Andy"]
