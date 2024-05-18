@@ -24,3 +24,4 @@ puts friends.reverse()
 
 friends = Array["Kevin", "Karen", "Oscar", "Andy"]
 puts friends
+puts friends.sort()
