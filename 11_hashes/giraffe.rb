@@ -1,4 +1,5 @@
 states = {
   "Pennsylvania" => "PA",
-  "New York" => "NY"
+  "New York" => "NY",
+  "Oregon" => "OR"
 }
