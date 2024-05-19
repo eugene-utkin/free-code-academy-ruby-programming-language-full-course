@@ -14,3 +14,9 @@ states = {
   "Oregon" => "OR"
 }
 puts states[:Pennsylvania]
+
+states = {
+  1 => "PA",
+  "New York" => "NY",
+  "Oregon" => "OR"
+}
