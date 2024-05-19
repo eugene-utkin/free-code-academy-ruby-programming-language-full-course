@@ -6,3 +6,4 @@ states = {
 
 puts states
 puts states["Oregon"]
+puts states["New York"]
