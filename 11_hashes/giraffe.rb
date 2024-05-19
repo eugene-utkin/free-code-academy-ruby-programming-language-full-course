@@ -5,3 +5,4 @@ states = {
 }
 
 puts states
+puts states["Oregon"]
