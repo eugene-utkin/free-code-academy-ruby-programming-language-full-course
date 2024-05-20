@@ -20,3 +20,4 @@ states = {
   "New York" => "NY",
   "Oregon" => "OR"
 }
+puts states[1]
