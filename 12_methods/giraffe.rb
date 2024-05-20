@@ -1,4 +1,4 @@
-def sayhi
+def sayhi(name)
   puts "Hello User"
 end
 
