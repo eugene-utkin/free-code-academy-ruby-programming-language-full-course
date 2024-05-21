@@ -1,4 +1,4 @@
-def sayhi(name)
+def sayhi(name, age)
   puts ("Hello " + name)
 end
 
