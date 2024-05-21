@@ -3,4 +3,3 @@ def sayhi(name)
 end
 
 sayhi
-puts "Bottom"
