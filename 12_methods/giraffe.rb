@@ -4,3 +4,4 @@ end
 
 sayhi("Mike", 73)
 sayhi("Mike")
+sayhi
