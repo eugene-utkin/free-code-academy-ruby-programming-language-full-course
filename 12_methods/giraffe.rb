@@ -3,3 +3,4 @@ def sayhi(name="no name", age=-1)
 end
 
 sayhi("Mike", 73)
+sayhi("Mike")
