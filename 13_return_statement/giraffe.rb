@@ -3,5 +3,5 @@ def cube(num)
   puts "Hello"
 end
 
-puts cube(2)
+puts cube(2)[0]
 puts cube(3)
