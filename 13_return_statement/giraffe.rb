@@ -4,4 +4,4 @@ def cube(num)
 end
 
 puts cube(2)[0]
-puts cube(3)
+puts cube(3)[1]
