@@ -2,4 +2,4 @@ def cube(num)
   num * num * num
 end
 
-cube(2)
+puts cube(2)
