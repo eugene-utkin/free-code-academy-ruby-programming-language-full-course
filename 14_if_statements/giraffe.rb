@@ -8,4 +8,6 @@ ismale = false
 
 if ismale
   puts "Yor are male"
+else
+
 end
