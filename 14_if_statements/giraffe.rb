@@ -5,3 +5,7 @@ if ismale
 end
 
 ismale = false
+
+if ismale
+  puts "Yor are male"
+end
