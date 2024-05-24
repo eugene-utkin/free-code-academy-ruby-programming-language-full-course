@@ -11,3 +11,5 @@ if ismale
 else
   puts "Yor are not male"
 end
+
+istall = true
