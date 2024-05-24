@@ -12,4 +12,5 @@ else
   puts "Yor are not male"
 end
 
+ismale = true
 istall = true
