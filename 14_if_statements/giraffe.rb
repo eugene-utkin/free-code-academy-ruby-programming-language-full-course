@@ -9,5 +9,5 @@ ismale = false
 if ismale
   puts "Yor are male"
 else
-
+  puts "Yor are not male"
 end
