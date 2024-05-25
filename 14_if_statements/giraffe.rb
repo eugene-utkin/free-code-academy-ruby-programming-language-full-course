@@ -22,5 +22,5 @@ else
 end
 
 if ismale or istall
-
+  puts "You are tall or you are a male or both"
 end
