@@ -20,3 +20,7 @@ if ismale and istall
 else
   puts "You either not male or not tall or both"
 end
+
+if ismale or istall
+
+end
