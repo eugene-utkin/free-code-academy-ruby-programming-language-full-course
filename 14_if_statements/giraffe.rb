@@ -14,3 +14,7 @@ end
 
 ismale = true
 istall = true
+
+if ismale and istall
+
+end
