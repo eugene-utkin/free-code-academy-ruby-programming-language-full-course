@@ -16,5 +16,5 @@ ismale = true
 istall = true
 
 if ismale and istall
-
+  puts "You are a tall male"
 end
