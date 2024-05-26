@@ -20,7 +20,7 @@ if ismale and istall
 elsif ismale and !istall
   puts "You are a short male"
 elsif !ismale and istall
-
+  puts "You are not male but are tall"
 else
   puts "You either not male or not tall or both"
 end
