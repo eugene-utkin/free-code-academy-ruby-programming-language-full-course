@@ -1,3 +1,3 @@
-def max(num1, num2)
+def max(num1, num2, num3)
 
 end
