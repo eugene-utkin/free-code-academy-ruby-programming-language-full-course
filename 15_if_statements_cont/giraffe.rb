@@ -1,3 +1,3 @@
-def max
+def max(num1)
 
 end
