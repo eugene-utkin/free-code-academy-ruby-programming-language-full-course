@@ -7,3 +7,5 @@ def max(num1, num2, num3)
     return num3
   end
 end
+
+max(1, 2, 3)
