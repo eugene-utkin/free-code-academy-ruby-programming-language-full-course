@@ -8,4 +8,4 @@ def max(num1, num2, num3)
   end
 end
 
-max(1, 2, 3)
+puts max(1, 2, 3)
