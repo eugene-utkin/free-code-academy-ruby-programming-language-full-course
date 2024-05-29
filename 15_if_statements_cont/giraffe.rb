@@ -10,3 +10,4 @@ end
 
 puts max(1, 2, 3)
 puts max(1, 20, 3)
+max(100, 20, 3)
