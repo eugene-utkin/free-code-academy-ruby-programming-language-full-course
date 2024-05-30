@@ -4,3 +4,7 @@ puts "Enter operator: "
 op = gets.chomp()
 puts "Enter second number: "
 num2 = gets.chomp().to_f
+
+if op == "+"
+
+end
