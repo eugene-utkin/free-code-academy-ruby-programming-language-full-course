@@ -1,3 +1,3 @@
-def get_day_name
+def get_day_name(day)
 
 end
