@@ -3,6 +3,7 @@ def get_day_name(day)
 
   case day
   when "mon"
+    day_name = "Monday"
   end
 
   return day_name
