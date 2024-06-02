@@ -13,6 +13,7 @@ def get_day_name(day)
   when "fri"
     day_name = "Friday"
   when "sat"
+    day_name = "Saturday"
   end
 
   return day_name
