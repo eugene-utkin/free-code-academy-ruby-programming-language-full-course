@@ -11,6 +11,7 @@ def get_day_name(day)
   when "thu"
     day_name = "Thursday"
   when "fri"
+    day_name = "Friday"
   end
 
   return day_name
