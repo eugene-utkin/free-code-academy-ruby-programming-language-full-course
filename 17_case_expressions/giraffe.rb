@@ -9,6 +9,7 @@ def get_day_name(day)
   when "wed"
     day_name = "Wednesday"
   when "thu"
+    day_name = "Thursday"
   end
 
   return day_name
