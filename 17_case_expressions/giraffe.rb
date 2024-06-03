@@ -15,6 +15,7 @@ def get_day_name(day)
   when "sat"
     day_name = "Saturday"
   when "sun"
+    day_name = "Sunday"
   end
 
   return day_name
