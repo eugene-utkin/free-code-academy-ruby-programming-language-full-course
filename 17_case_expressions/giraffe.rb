@@ -16,6 +16,7 @@ def get_day_name(day)
     day_name = "Saturday"
   when "sun"
     day_name = "Sunday"
+  else
   end
 
   return day_name
