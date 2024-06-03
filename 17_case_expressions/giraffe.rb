@@ -17,6 +17,7 @@ def get_day_name(day)
   when "sun"
     day_name = "Sunday"
   else
+    day_name = "Invalid abbreviation"
   end
 
   return day_name
