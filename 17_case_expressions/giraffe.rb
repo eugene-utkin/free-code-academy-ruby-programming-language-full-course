@@ -24,4 +24,4 @@ def get_day_name(day)
 end
 
 puts get_day_name("mon")
-get_day_name("sat")
+puts get_day_name("sat")
