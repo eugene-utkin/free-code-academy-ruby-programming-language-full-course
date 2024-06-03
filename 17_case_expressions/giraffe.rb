@@ -23,4 +23,4 @@ def get_day_name(day)
   return day_name
 end
 
-get_day_name("mon")
+puts get_day_name("mon")
