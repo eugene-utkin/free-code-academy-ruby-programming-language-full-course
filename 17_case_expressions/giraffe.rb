@@ -25,4 +25,4 @@ end
 
 puts get_day_name("mon")
 puts get_day_name("sat")
-get_day_name("thu")
+puts get_day_name("thu")
