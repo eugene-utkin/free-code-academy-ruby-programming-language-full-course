@@ -26,4 +26,4 @@ end
 puts get_day_name("mon")
 puts get_day_name("sat")
 puts get_day_name("thu")
-get_day_name("dog")
+puts get_day_name("dog")
