@@ -5,9 +5,11 @@ guess_limit = 3
 out_of_guesses = false
 
 while guess != secret_word
-  puts "Enter guess: "
-  guess = gets.chomp()
-  guess_count += 1
+  if guess_count < guess_limit
+    puts "Enter guess: "
+    guess = gets.chomp()
+    guess_count += 1
+  end
 end
 
 puts "You Won!"
