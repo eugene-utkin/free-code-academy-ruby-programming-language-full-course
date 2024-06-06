@@ -10,6 +10,7 @@ while guess != secret_word
     guess = gets.chomp()
     guess_count += 1
   else
+    out_of_guesses = true
   end
 end
 
