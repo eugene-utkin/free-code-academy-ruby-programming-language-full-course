@@ -17,5 +17,5 @@ end
 if out_of_guesses
   puts "You Lose"
 else
+  puts "You Won!"
 end
-puts "You Won!"
