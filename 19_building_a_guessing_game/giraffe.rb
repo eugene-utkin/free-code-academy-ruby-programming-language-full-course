@@ -14,4 +14,7 @@ while guess != secret_word and !out_of_guesses
   end
 end
 
+if out_of_guesses
+
+end
 puts "You Won!"
