@@ -9,5 +9,5 @@ friends.each do |friend|
 end
 
 for index in 2..5
-
+  puts index
 end
