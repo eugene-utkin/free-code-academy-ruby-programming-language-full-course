@@ -11,3 +11,7 @@ end
 for index in 2..5
   puts index
 end
+
+for index in 0..5
+  puts index
+end
