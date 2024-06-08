@@ -1,5 +1,5 @@
 friends = ["Kevin", "Karen", "Oscar", "Angela", "Andy"]
 
-for friend in friends
-    puts friend
+for element in friends
+  puts element
 end
