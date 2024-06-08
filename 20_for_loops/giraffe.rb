@@ -5,5 +5,5 @@ for element in friends
 end
 
 friends.each do |friend|
-
+  puts friend
 end
