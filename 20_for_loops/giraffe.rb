@@ -17,5 +17,5 @@ for index in 0..5
 end
 
 6.times do |index|
-
+  puts index
 end
