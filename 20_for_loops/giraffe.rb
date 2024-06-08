@@ -7,3 +7,7 @@ end
 friends.each do |friend|
   puts friend
 end
+
+for index in 2..5
+
+end
