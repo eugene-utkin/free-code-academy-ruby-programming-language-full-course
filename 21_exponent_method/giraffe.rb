@@ -7,3 +7,5 @@ def pow(base_num, pow_num)
 
   return result
 end
+
+pow(2, 3)
