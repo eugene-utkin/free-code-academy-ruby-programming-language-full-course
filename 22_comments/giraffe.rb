@@ -7,3 +7,7 @@ puts "Comments are fun" # Comment
 
 # line one
 # line two
+
+=begin
+
+=end
