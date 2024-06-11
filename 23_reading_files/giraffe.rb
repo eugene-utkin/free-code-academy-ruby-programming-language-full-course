@@ -1,1 +1,3 @@
-File.open("employees.txt", "r")
+File.open("employees.txt", "r") do |file|
+
+end
