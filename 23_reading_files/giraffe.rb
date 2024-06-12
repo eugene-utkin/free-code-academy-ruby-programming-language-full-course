@@ -1,10 +1,13 @@
 File.open("employees.txt", "r") do |file|
   puts file
   puts file.read()
-  puts file.readline()
-  puts file.readline()
 end
 
 File.open("employees.txt", "r") do |file|
   puts file.read().include? "Jim"
+end
+
+File.open("employees.txt", "r") do |file|
+  puts file.readline()
+  puts file.readline()
 end
