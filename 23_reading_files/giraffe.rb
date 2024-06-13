@@ -30,3 +30,5 @@ File.open("employees.txt", "r") do |file|
 end
 
 file = File.open("employees.txt", "r")
+
+puts file.read
