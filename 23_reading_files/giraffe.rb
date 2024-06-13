@@ -28,3 +28,5 @@ File.open("employees.txt", "r") do |file|
     puts line
   end
 end
+
+file = File.open("employees.txt", "r")
