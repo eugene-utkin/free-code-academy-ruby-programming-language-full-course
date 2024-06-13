@@ -20,6 +20,10 @@ File.open("employees.txt", "r") do |file|
 end
 
 File.open("employees.txt", "r") do |file|
+  puts file.readlines()[2]
+end
+
+File.open("employees.txt", "r") do |file|
   for line in file.readlines()
   end
 end
