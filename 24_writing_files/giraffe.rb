@@ -1,3 +1,3 @@
 File.open("employees.txt", "a") do |file|
-  file.write("Oscar, Accounting")
+  file.write("\nOscar, Accounting")
 end
