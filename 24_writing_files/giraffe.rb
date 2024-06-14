@@ -3,5 +3,5 @@ File.open("employees.txt", "a") do |file|
 end
 
 File.open("index.html", "w") do |file|
-
+  file.write("<h1>Hello</h1>")
 end
