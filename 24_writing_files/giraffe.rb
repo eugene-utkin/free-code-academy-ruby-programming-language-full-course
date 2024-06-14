@@ -7,5 +7,5 @@ File.open("index.html", "w") do |file|
 end
 
 File.open("employees2.txt", "r+") do |file|
-
+  file.readline()
 end
