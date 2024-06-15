@@ -10,4 +10,5 @@ File.open("employees2.txt", "r+") do |file|
   file.readline()
   file.write("Overridden")
   file.readchar()
+  file.write("Hi")
 end
