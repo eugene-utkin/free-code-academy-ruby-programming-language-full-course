@@ -8,7 +8,7 @@ rescue
 end
 
 begin
-
+  lucky_nums["dog"]
 rescue
 
 end
