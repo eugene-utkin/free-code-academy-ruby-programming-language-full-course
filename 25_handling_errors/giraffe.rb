@@ -6,3 +6,9 @@ begin
 rescue
   puts "Division by zero error"
 end
+
+begin
+
+rescue
+
+end
