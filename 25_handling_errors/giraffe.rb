@@ -6,6 +6,6 @@ begin
   num = 10 / 0
 rescue ZeroDivisionError
   puts "Division by zero error"
-rescue TypeError
+rescue TypeError => e
   puts "Wrong Type"
 end
