@@ -6,4 +6,5 @@ begin
   num = 10 / 0
 rescue ZeroDivisionError
   puts "Division by zero error"
+rescue TypeError
 end
