@@ -7,5 +7,5 @@ begin
 rescue ZeroDivisionError
   puts "Division by zero error"
 rescue TypeError => e
-  puts "Wrong Type"
+  puts e
 end
