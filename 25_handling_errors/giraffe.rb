@@ -7,4 +7,5 @@ begin
 rescue ZeroDivisionError
   puts "Division by zero error"
 rescue TypeError
+  puts "Wrong Type"
 end
