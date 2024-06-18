@@ -8,3 +8,5 @@ book1.author = "JK Rowling"
 book1.pages = 400
 
 puts book1.pages
+
+book2 = Book.new()
