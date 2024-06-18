@@ -10,3 +10,4 @@ book1.pages = 400
 puts book1.pages
 
 book2 = Book.new()
+book2.title = "Lord of the rings"
