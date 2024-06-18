@@ -3,3 +3,4 @@ class Book
 end
 
 book1 = Book.new()
+book1.title = "Harry Potter"
