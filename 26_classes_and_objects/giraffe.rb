@@ -4,3 +4,4 @@ end
 
 book1 = Book.new()
 book1.title = "Harry Potter"
+book1.author = "JK Rowling"
