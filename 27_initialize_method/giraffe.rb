@@ -1,7 +1,7 @@
 class Book
   attr_accessor :title, :author, :pages
 
-  def initialize
+  def initialize(name)
     puts "Creating Book"
   end
 end
