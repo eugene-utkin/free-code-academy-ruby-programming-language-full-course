@@ -1,5 +1,9 @@
 class Book
   attr_accessor :title, :author, :pages
+
+  def initialize
+
+  end
 end
 
 book1 = Book.new()
