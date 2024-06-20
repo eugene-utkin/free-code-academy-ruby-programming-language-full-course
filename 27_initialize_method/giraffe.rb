@@ -3,6 +3,7 @@ class Book
 
   def initialize(title, author, pages)
     @title = title
+    @author = author
   end
 end
 
