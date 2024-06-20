@@ -2,7 +2,7 @@ class Book
   attr_accessor :title, :author, :pages
 
   def initialize(title, author, pages)
-
+    @title = title
   end
 end
 
