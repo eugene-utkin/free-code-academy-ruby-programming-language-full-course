@@ -8,7 +8,7 @@ class Book
   end
 end
 
-book1 = Book.new("Harry Potter", "JK Rowling")
+book1 = Book.new("Harry Potter", "JK Rowling", 400)
 book1.title = "Harry Potter"
 book1.author = "JK Rowling"
 book1.pages = 400
