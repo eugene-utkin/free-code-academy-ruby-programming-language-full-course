@@ -9,7 +9,6 @@ class Book
 end
 
 book1 = Book.new("Harry Potter", "JK Rowling", 400)
-book1.author = "JK Rowling"
 book1.pages = 400
 
 puts book1.pages
