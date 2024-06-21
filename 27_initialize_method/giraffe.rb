@@ -12,7 +12,7 @@ book1 = Book.new("Harry Potter", "JK Rowling", 400)
 
 puts book1.pages
 
-book2 = Book.new("Bill")
+book2 = Book.new("Lord of the rings")
 book2.title = "Lord of the rings"
 book2.author = "Tolkien"
 book2.pages = 500
