@@ -3,5 +3,6 @@ class Student
   def initialize(name, major, gpa)
     @name = name
     @major = major
+    @gpa = gpa
   end
 end
