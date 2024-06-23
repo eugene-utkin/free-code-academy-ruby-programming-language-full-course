@@ -6,3 +6,5 @@ class Student
     @gpa = gpa
   end
 end
+
+student1 = Student.new()
