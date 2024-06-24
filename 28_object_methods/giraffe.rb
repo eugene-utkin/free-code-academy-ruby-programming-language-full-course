@@ -5,6 +5,10 @@ class Student
     @major = major
     @gpa = gpa
   end
+
+  def has_honors
+
+  end
 end
 
 student1 = Student.new("Jim", "Business", 2.6)
