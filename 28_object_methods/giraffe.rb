@@ -7,7 +7,9 @@ class Student
   end
 
   def has_honors
+    if @gpa >= 3.5
 
+    end
   end
 end
 
