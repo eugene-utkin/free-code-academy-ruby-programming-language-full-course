@@ -7,4 +7,4 @@ class Student
   end
 end
 
-student1 = Student.new("Jim")
+student1 = Student.new("Jim", "Business")
