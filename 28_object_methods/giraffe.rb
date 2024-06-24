@@ -8,3 +8,4 @@ class Student
 end
 
 student1 = Student.new("Jim", "Business", 2.6)
+student2 = Student.new()
