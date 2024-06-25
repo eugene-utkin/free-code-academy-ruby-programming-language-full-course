@@ -16,3 +16,5 @@ end
 
 student1 = Student.new("Jim", "Business", 2.6)
 student2 = Student.new("Pam", "Art", 3.6)
+
+student1.has_honors
