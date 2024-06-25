@@ -10,6 +10,7 @@ class Student
     if @gpa >= 3.5
       return true
     end
+    return false
   end
 end
 
