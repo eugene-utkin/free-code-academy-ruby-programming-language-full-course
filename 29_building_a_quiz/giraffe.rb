@@ -3,6 +3,7 @@ class Question
 
   def initialize(prompt, answer)
     @prompt = prompt
+    @answer = answer
   end
 end
 
