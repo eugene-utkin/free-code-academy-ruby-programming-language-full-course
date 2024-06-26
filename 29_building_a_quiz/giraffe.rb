@@ -1,7 +1,7 @@
 class Question
   attr_accessor :prompt, :answer
 
-  def initialize(prompt)
+  def initialize(prompt, answer)
 
   end
 end
