@@ -1,5 +1,9 @@
 class Question
   attr_accessor :prompt, :answer
+
+  def initialize
+
+  end
 end
 
 p1 = "What color are apples?\n(a)red\n(b)purple\n(c)orange"
