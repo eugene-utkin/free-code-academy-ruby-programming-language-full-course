@@ -1,5 +1,5 @@
 class Question
-  attr_accessor :prompt
+  attr_accessor :prompt, :answer
 end
 
 p1 = "What color are apples?\n(a)red\n(b)purple\n(c)orange"
