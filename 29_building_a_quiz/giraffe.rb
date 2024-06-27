@@ -11,5 +11,5 @@ p2 = "What color are bananas?\n(a)pink\n(b)red\n(c)yellow"
 p3 = "What color are pears?\n(a)yellow\n(b)green\n(c)orange"
 
 questions = [
-  Question.new()
+  Question.new(p1)
 ]
