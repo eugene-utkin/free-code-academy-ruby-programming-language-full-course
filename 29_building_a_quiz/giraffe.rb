@@ -18,6 +18,7 @@ questions = [
 
 def run_test(questions)
   answer = ""
+  score = 0
 
   for question in questions
     puts question.prompt
