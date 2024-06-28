@@ -16,6 +16,6 @@ questions = [
   Question.new(p3, "b")
 ]
 
-def run_test
+def run_test(questions)
 
 end
