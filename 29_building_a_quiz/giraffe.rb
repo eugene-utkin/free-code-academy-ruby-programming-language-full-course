@@ -17,5 +17,5 @@ questions = [
 ]
 
 def run_test(questions)
-
+  answer = ""
 end
