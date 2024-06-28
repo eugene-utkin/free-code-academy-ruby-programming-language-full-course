@@ -15,3 +15,7 @@ questions = [
   Question.new(p2, "c"),
   Question.new(p3, "b")
 ]
+
+def run_test
+
+end
