@@ -18,4 +18,8 @@ questions = [
 
 def run_test(questions)
   answer = ""
+
+  for question in questions
+
+  end
 end
