@@ -30,4 +30,4 @@ def run_test(questions)
   puts ("You got " + score + "/" + questions.length())
 end
 
-run_test
+run_test(questions)
