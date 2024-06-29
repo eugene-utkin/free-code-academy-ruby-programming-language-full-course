@@ -27,7 +27,7 @@ def run_test(questions)
       score += 1
     end
   end
-  puts ("You got " + score.to_s + "/" + questions.length())
+  puts ("You got " + score.to_s + "/" + questions.length().to_s)
 end
 
 run_test(questions)
