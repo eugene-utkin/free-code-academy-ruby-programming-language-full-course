@@ -29,3 +29,5 @@ def run_test(questions)
   end
   puts ("You got " + score + "/" + questions.length())
 end
+
+run_test
