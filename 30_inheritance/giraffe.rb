@@ -8,6 +8,6 @@ class Chef
   end
 
   def make_special_dish
-
+    puts "The chef makes bbq ribs"
   end
 end
