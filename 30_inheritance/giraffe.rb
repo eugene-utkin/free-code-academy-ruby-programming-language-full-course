@@ -6,4 +6,8 @@ class Chef
   def make_salad
     puts "The chef makes salad"
   end
+
+  def make_special_dish
+
+  end
 end
