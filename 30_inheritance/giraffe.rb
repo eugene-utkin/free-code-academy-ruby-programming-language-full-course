@@ -18,3 +18,5 @@ end
 
 chef = Chef.new()
 chef.make_chicken
+
+italian_chef = ItalianChef.new()
