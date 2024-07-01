@@ -13,7 +13,9 @@ class Chef
 end
 
 class ItalianChef < Chef
+  def make_special_dish
 
+  end
 end
 
 chef = Chef.new()
