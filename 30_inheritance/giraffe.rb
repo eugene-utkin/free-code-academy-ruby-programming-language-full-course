@@ -11,3 +11,5 @@ class Chef
     puts "The chef makes bbq ribs"
   end
 end
+
+chef = Chef.new()
