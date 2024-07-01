@@ -20,6 +20,7 @@ end
 
 chef = Chef.new()
 chef.make_chicken
+chef.make_special_dish
 
 italian_chef = ItalianChef.new()
 italian_chef.make_salad
