@@ -13,3 +13,4 @@ class Chef
 end
 
 chef = Chef.new()
+chef.make_chicken
