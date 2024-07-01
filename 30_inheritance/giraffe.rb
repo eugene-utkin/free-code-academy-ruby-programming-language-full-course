@@ -14,7 +14,7 @@ end
 
 class ItalianChef < Chef
   def make_special_dish
-
+    puts "The chef makes eggplant parm"
   end
 end
 
