@@ -12,7 +12,7 @@ class Chef
   end
 end
 
-class ItalianChef
+class ItalianChef < Chef
 
 end
 
