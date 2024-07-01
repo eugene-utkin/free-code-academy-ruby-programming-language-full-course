@@ -12,5 +12,9 @@ class Chef
   end
 end
 
+class ItalianChef
+
+end
+
 chef = Chef.new()
 chef.make_chicken
