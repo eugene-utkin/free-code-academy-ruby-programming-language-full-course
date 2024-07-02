@@ -3,7 +3,7 @@ module Tools
     puts "hello #{name}"
   end
 
-  def saybye
+  def saybye(name)
 
   end
 end
