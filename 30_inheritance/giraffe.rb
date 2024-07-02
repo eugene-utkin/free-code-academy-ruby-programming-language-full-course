@@ -29,3 +29,4 @@ chef.make_special_dish
 italian_chef = ItalianChef.new()
 italian_chef.make_salad
 italian_chef.make_special_dish
+italian_chef.make_pasta
