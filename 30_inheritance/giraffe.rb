@@ -18,7 +18,7 @@ class ItalianChef < Chef
   end
 
   def make_pasta
-
+    puts "The chef makes pasta"
   end
 end
 
