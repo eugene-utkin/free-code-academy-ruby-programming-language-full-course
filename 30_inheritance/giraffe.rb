@@ -16,6 +16,10 @@ class ItalianChef < Chef
   def make_special_dish
     puts "The chef makes eggplant parm"
   end
+
+  def make_pasta
+
+  end
 end
 
 chef = Chef.new()
