@@ -1,5 +1,5 @@
 module Tools
-  def sayhi
+  def sayhi(name)
 
   end
 end
