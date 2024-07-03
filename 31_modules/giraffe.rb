@@ -7,3 +7,5 @@ module Tools
     puts "bye #{name}"
   end
 end
+
+include Tools
