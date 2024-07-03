@@ -4,6 +4,6 @@ module Tools
   end
 
   def saybye(name)
-
+    puts "bye #{name}"
   end
 end
