@@ -11,3 +11,4 @@ end
 include Tools
 
 Tools.sayhi("mike")
+Tools.saybye("mike")
