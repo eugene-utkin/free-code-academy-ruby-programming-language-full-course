@@ -9,3 +9,5 @@ module Tools
 end
 
 include Tools
+
+Tools.sayhi("mike")
